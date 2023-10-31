@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.oijon</groupId>
 	<artifactId>otime</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>OTime</name>
 	<description>A library to help manage everything about time in Java.</description>
 	<scm>
