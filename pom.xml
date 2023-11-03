@@ -5,6 +5,7 @@
 	<version>0.0.1</version>
 	<name>OTime</name>
 	<description>A library to help manage everything about time in Java.</description>
+	<url>https://oijon.net/otime</url>
 	<scm>
 		<connection>scm:git:git@github.com/alexdcramer/OTime.git</connection>
 		<developerConnection>scm:git:git@github.com:alexdcramer/OTime.git</developerConnection>
