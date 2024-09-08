@@ -46,7 +46,7 @@ public class Timer {
 			// one direction.
 			return "Timer is running!";
 		} else {
-			double nano = start - end;
+			double nano = end - start;
 			double micro = nano / 1000D;
 			double milli = micro / 1000D;
 			double second = milli / 1000D;
